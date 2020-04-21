@@ -4,23 +4,23 @@
 	padding: 0px;
 }
 .clr1{
-	background-color: pink;
+	background-color: #DC143C;
 }
 .clr2{
-	background-color: tomato;
+	background-color:#008B8B;
 }
 .clr3{
-	background-color: violet;
+	background-color: 	#9400D3;
 }
 .title-clr1{
-	background-color: violet;
+	background-color: #FFD700;
 }
 .title-clr2{
-	background-color: blue;
+	background-color: #00FF7F;
 }
 
 .title-clr3{
-	background-color: orange;
+	background-color: #FF00FF;
 }
 
 
@@ -47,7 +47,7 @@ div{
 
 .section-title{
 	float: right;
-	padding: 15px 35px;
+	padding: 10px 45px;
 	top: -1px;
 	right: -1px;
 	border-left: 2px solid black;
